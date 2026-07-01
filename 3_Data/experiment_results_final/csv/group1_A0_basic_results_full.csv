@@ -1,0 +1,2 @@
+﻿case_name,lambda_label,zeta_label,A_label,zeta,omega0,A,Omega,x0,v0,T,dt,B_steady,B_over_x0,lambda_phys,n_data,n_phys,epochs,lr,relative_l2,rmse,max_abs_error,physics_mse,experiment_group
+G1_A0,,,,0.1,2.0,0.0,1.0,1.0,0.0,10.0,0.01,0.0,0.0,0.1,25,400,20000,0.0001,0.00168173169337088,0.0006023498281462084,0.001149316699451397,6.258123175939545e-05,group1_A0_basic
